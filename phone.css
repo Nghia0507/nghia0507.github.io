@@ -1,0 +1,28 @@
+@media only screen and (max-width: 767px) {
+  /* * {
+      font-size: 15px;
+  } */
+    #header {
+    height: 50px;
+    width: 100%;
+    background-color: rgb(61, 58, 58);
+    padding: 0 50px;
+    }
+  #--Sum {
+    padding: 20px;
+  }
+  #nav {
+    background-color: rgb(45, 47, 48);
+  }
+  li {
+    display: inline-block;
+    padding: 15px 10px;
+    text-transform: uppercase;
+  }
+  .menu-text {
+    color: #fff;
+    list-style: none;
+    text-decoration: none;
+}
+
+}
